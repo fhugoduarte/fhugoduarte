@@ -10,3 +10,5 @@ I'm a full stack developer :computer:
 - :purple_heart:   React Native
 - :computer:   ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: tech, games, movies
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhugoduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
