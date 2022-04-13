@@ -6,7 +6,7 @@
 I'm Hugo Duarte.
 I'm a full stack developer :computer:
 
-- :rocket:   I’m currently working at **Nomad Global**
+- 🌐   I’m currently working at **Nomad Global**
 - :purple_heart:   React Native
 - :computer:   ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: tech, games, movies
