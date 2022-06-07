@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
+## What's up my friends
 I'm Hugo Duarte.
 I'm a full stack developer :computer:
 
